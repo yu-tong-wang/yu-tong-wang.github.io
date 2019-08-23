@@ -1,0 +1,58 @@
+baseURL = "http://yu-tong-wang.github.io/"
+languageCode = "en-us"
+title = "Yutong Wang"
+theme = "ezhil"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+#googleAnalytics = "UA-123-45"
+#disqusShortname = "localhost"
+
+[params]
+	subtitle = "Graduate student in Biostatistics, University of California, Berkeley"
+	# Number of posts to show in recent posts list.
+	recentPostsCount = 1
+	# Content types which are excluded from recent posts and archive page.
+	excludedTypes = ["page"]
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+
+[[menu.main]]
+name = "Home"
+url = "/home"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+url = "/research"
+weight = 2
+
+[[menu.main]]
+name = "Academics"
+url = "/academics"
+weight = 3
+
+[[menu.main]]
+name = "Misc"
+url = "/misc"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/yu-tong-wang"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/yu_tong_wang"
+
+# [[params.social]]
+# name = "Linkedin"
+# icon = "linkedin"
+# url = "https://www.linkedin.com/in/yutong-wang-634b40128/"
+
+[taxonomies]
+   tag = "tags"
