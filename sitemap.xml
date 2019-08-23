@@ -4,87 +4,6 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-4/</loc>
-    <lastmod>2018-03-18T12:13:35+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-3/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/procrastinating/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-2/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/space/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -101,6 +20,10 @@
   
   <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
