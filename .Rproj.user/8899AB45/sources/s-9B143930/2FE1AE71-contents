@@ -1,4 +1,4 @@
-baseURL = "http://yu-tong-wang.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Yutong Wang"
 theme = "ezhil"
