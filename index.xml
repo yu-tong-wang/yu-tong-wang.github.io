@@ -22,12 +22,15 @@ Feel free to contact me: ytwang at berkeley dot edu</description>
     </item>
     
     <item>
-      <title>Academics</title>
-      <link>/academics/</link>
+      <title>Education</title>
+      <link>/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/academics/</guid>
-      <description>Under construction.</description>
+      <guid>/education/</guid>
+      <description>Graduate Coursework:
+Robust Statistics in High Dimensions, Theoretical Statistics, Advanced topics in Causal Inference, Probabilistic Modeling in Genomics, Statistical Models: Theory and Application I, II, Computational Statistics with Applications in Biology and Medicine
+Undergraduate Coursework:
+Functional Analysis, PDE, ODE, Real Analysis, Complex Analysis, Abstract Algebra, Stochastic Process, Probability, Mathematical Statistics, Statistical Inference, Modern Data Mining, Data Analytics &amp;amp; Statistical Computing, Computer Methods with Mathematical Science, C++, Advanced Calculus, Advanced Algebra, Analytical Geometry</description>
     </item>
     
     <item>
@@ -47,6 +50,15 @@ I have published several articles in Chinese as a journalist, Here are some exce
       
       <guid>/research/</guid>
       <description>Under construction.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description> Fall 2018 - Spring 2019: Introduction to Statistics (Stat 2), with Professor Cari Kaufman  </description>
     </item>
     
   </channel>

@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>/academics/</loc>
+    <loc>/education/</loc>
   </url>
   
   <url>
@@ -24,6 +24,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
   </url>
   
 </urlset>
