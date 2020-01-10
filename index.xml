@@ -22,6 +22,15 @@ Feel free to contact me: ytwang at berkeley dot edu</description>
     </item>
     
     <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
       <title>Education</title>
       <link>/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,8 +60,9 @@ I have published several articles as a journalist.</description>
       
       <guid>/research/</guid>
       <description>My current research projects include:
-Domain adaptation
-The incredible success of deep learning shows the potential of artificial intelligence to learn from complex large-scale whole-genome data in computational biology. However, it can be extremely expensive or time-consuming to collect and annotate data in biology. In the lack of sufficient data, biologists always leverage probabilistic modeling to generate datasets. However, deep learning-based attempts using simulated datasets always struggle with model misspecification, as real data often has additional noise which is not well-characterized in probabilistic modeling.</description>
+1. Domain adaptation
+The incredible success of deep learning shows the potential of artificial intelligence to learn from complex large-scale whole-genome data in computational biology. However, it can be extremely expensive or time-consuming to collect and annotate data in biology.
+In the lack of sufficient data, biologists always leverage probabilistic modeling to generate datasets. However, deep learning-based attempts using simulated datasets always struggle with model misspecification, as real data often has additional noise which is not well-characterized in probabilistic modeling.</description>
     </item>
     
     <item>
