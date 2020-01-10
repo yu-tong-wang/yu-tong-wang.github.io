@@ -50,7 +50,9 @@ I have published several articles as a journalist.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Under construction.</description>
+      <description>My current research projects include:
+Domain adaptation
+The incredible success of deep learning shows the potential of artificial intelligence to learn from complex large-scale whole-genome data in computational biology. However, it can be extremely expensive or time-consuming to collect and annotate data in biology. In the lack of sufficient data, biologists always leverage probabilistic modeling to generate datasets. However, deep learning-based attempts using simulated datasets always struggle with model misspecification, as real data often has additional noise which is not well-characterized in probabilistic modeling.</description>
     </item>
     
     <item>
@@ -59,7 +61,9 @@ I have published several articles as a journalist.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description> Fall 2018 - Spring 2019: Introduction to Statistics (Stat 2), with Professor Cari Kaufman  </description>
+      <description> Spring 2020: Concepts of Statistics (Stat 135), with Professor Adam Lucas
+ Fall 2018 - Spring 2019: Introduction to Statistics (Stat 2), with Professor Cari Kaufman
+  </description>
     </item>
     
   </channel>
