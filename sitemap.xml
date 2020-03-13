@@ -16,6 +16,11 @@
   </url>
   
   <url>
+    <loc>/teaching/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/education/</loc>
   </url>
   
