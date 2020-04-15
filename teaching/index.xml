@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | Yutong Wang</title>
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teachings</title>
+      <link>/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Statistics 135: Concepts of Statistics (Spring 2020)</title>
+      <link>/teaching/example/stat135/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/example/stat135/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Adam Lucas&lt;/li&gt;
+&lt;li&gt;Office Hours: 
+&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1itVFjBhaC8PIO8ka8ak_VCXaldN34366tvLwD-Jyt3o/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign-up sheet&lt;/a&gt;. W 12-1pm, Th 1-3pm, F 9:30-10:30am&lt;/li&gt;
+&lt;li&gt;Lab Sections: F 12-2pm, F 4-6pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab1.pdf&#34;&gt;Lab 1: R setup and practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 1: Parametric Estimation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab2.pdf&#34;&gt;Lab 2: MoM, nonparametric bootstrap, SE calculation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab3.pdf&#34;&gt;Lab 3: MLE, Delta method&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab4.pdf&#34;&gt;Lab 4: Quiz 1 recap, Fisher information, CRLB, MSE, ggplot&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab5.pdf&#34;&gt;Lab 5: Sufficiency, minimal sufficiency, Rao-Blackwell theorem&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 2: Hypothesis Testing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab6.pdf&#34;&gt;Lab 6: Hypothesis testing, Neyman-Pearson lemma, LRT, UMP test, GLRT, p value&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab7.pdf&#34;&gt;Lab 7: Midterm Review&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 3: Statistical Tests (parametric &amp;amp; nonparametric)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab8.pdf&#34;&gt;Lab 8: 2-sample t-test, chi-squared test&lt;/a&gt;
+(&lt;a href=&#34;/teaching/stat135_S20/recordings/Stat135-Lab8.mp4&#34;&gt;Recording&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab9.pdf&#34;&gt;Lab 9: TOH, TOI, Mann-Whitney test&lt;/a&gt;
+(&lt;a href=&#34;/teaching/stat135_S20/recordings/Stat135-Lab9.mp4&#34;&gt;Recording&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab10.pdf&#34;&gt;Lab 10: Wilcoxon signed rank test, ANOVA, Bonferroni correction&lt;/a&gt;
+(&lt;a href=&#34;/teaching/stat135_S20/recordings/Stat135-Lab10.mp4&#34;&gt;Recording&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics 2: Introduction to Statistics (Spring 2019)</title>
+      <link>/teaching/example/stat2_s19/</link>
+      <pubDate>Sat, 01 Jun 2019 22:12:15 -0700</pubDate>
+      <guid>/teaching/example/stat2_s19/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
+&lt;li&gt;Office Hours: W, F 9-11am&lt;/li&gt;
+&lt;li&gt;Lab Sections: M, W 12-2pm&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics 2: Introduction to Statistics (Fall 2018)</title>
+      <link>/teaching/example/stat2_f18/</link>
+      <pubDate>Sat, 15 Dec 2018 22:12:15 -0700</pubDate>
+      <guid>/teaching/example/stat2_f18/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
+&lt;li&gt;Office Hours: F 11am-3pm&lt;/li&gt;
+&lt;li&gt;Lab Sections: M, W 1-2pm, 4-5pm&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/index_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/index_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

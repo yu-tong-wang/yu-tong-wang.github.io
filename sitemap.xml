@@ -1,35 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/teaching/example/stat135/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/</loc>
+    <loc>/teaching/example/stat2_s19/</loc>
+    <lastmod>2019-06-01T22:12:15-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/research/</loc>
-    <priority>0</priority>
+    <loc>/teaching/example/stat2_f18/</loc>
+    <lastmod>2018-12-15T22:12:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>/teaching/</loc>
-    <priority>0</priority>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/education/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/misc/</loc>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/research/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
   </url>
   
   <url>
@@ -37,7 +70,7 @@
   </url>
   
   <url>
-    <loc>/teaching/</loc>
+    <loc>/teaching/index_/</loc>
   </url>
   
 </urlset>

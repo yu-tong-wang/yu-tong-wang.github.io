@@ -3,85 +3,125 @@
   <channel>
     <title>Yutong Wang</title>
     <link>/</link>
-    <description>Recent content on Yutong Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yutong Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yutong Wang</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title></title>
-      <link>/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/</guid>
-      <description>Hello! Hallo! 你好！
-I&amp;rsquo;m Yutong Wang, a second year graduate student in Graduate Group of Biostatistics, at University of California, Berkeley, working in Prof. Yun S. Song&amp;rsquo;s group. I am broadly interested in statistical machine learning, causal inference and transfer learning, with applications in scRNA-seq and microbiome.
-Feel free to contact me: ytwang at berkeley dot edu</description>
+      <title>Statistics 135: Concepts of Statistics (Spring 2020)</title>
+      <link>/teaching/example/stat135/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/example/stat135/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Adam Lucas&lt;/li&gt;
+&lt;li&gt;Office Hours: 
+&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1itVFjBhaC8PIO8ka8ak_VCXaldN34366tvLwD-Jyt3o/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign-up sheet&lt;/a&gt;. W 12-1pm, Th 1-3pm, F 9:30-10:30am&lt;/li&gt;
+&lt;li&gt;Lab Sections: F 12-2pm, F 4-6pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab1.pdf&#34;&gt;Lab 1: R setup and practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 1: Parametric Estimation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab2.pdf&#34;&gt;Lab 2: MoM, nonparametric bootstrap, SE calculation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab3.pdf&#34;&gt;Lab 3: MLE, Delta method&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab4.pdf&#34;&gt;Lab 4: Quiz 1 recap, Fisher information, CRLB, MSE, ggplot&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab5.pdf&#34;&gt;Lab 5: Sufficiency, minimal sufficiency, Rao-Blackwell theorem&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 2: Hypothesis Testing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab6.pdf&#34;&gt;Lab 6: Hypothesis testing, Neyman-Pearson lemma, LRT, UMP test, GLRT, p value&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab7.pdf&#34;&gt;Lab 7: Midterm Review&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 3: Statistical Tests (parametric &amp;amp; nonparametric)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab8.pdf&#34;&gt;Lab 8: 2-sample t-test, chi-squared test&lt;/a&gt;
+(&lt;a href=&#34;/teaching/stat135_S20/recordings/Stat135-Lab8.mp4&#34;&gt;Recording&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab9.pdf&#34;&gt;Lab 9: TOH, TOI, Mann-Whitney test&lt;/a&gt;
+(&lt;a href=&#34;/teaching/stat135_S20/recordings/Stat135-Lab9.mp4&#34;&gt;Recording&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/teaching/stat135_S20/slides/Stat135-Lab10.pdf&#34;&gt;Lab 10: Wilcoxon signed rank test, ANOVA, Bonferroni correction&lt;/a&gt;
+(&lt;a href=&#34;/teaching/stat135_S20/recordings/Stat135-Lab10.mp4&#34;&gt;Recording&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>Research       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+      <title>Statistics 2: Introduction to Statistics (Spring 2019)</title>
+      <link>/teaching/example/stat2_s19/</link>
+      <pubDate>Sat, 01 Jun 2019 22:12:15 -0700</pubDate>
+      <guid>/teaching/example/stat2_s19/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
+&lt;li&gt;Office Hours: W, F 9-11am&lt;/li&gt;
+&lt;li&gt;Lab Sections: M, W 12-2pm&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>Teaching       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+      <title>Statistics 2: Introduction to Statistics (Fall 2018)</title>
+      <link>/teaching/example/stat2_f18/</link>
+      <pubDate>Sat, 15 Dec 2018 22:12:15 -0700</pubDate>
+      <guid>/teaching/example/stat2_f18/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
+&lt;li&gt;Office Hours: F 11am-3pm&lt;/li&gt;
+&lt;li&gt;Lab Sections: M, W 1-2pm, 4-5pm&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/education/</guid>
-      <description>Graduate Coursework:
-Theoretical Statistics, Advanced topics in Causal Inference, Probabilistic Modeling in Genomics, Statistical Models: Theory and Application I, II, Computational Statistics with Applications in Biology and Medicine
-Undergraduate Coursework:
-Functional Analysis, PDE, ODE, Real Analysis, Complex Analysis, Abstract Algebra, Stochastic Process, Probability, Mathematical Statistics, Statistical Inference, Optimization Methods, Modern Data Mining, Data Analytics &amp;amp; Statistical Computing, Computer Methods with Mathematical Science, C++, Advanced Calculus, Advanced Algebra, Analytical Geometry
-Awards:</description>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Misc</title>
-      <link>/misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/misc/</guid>
-      <description>I have been working as a journalist in the New Citizen Program in China since 2016, to raise sexual health awareness of the public, left-behind children in particular. I later realized credible statistics of domestic sexual crime is impossibly difficult to collect in my home country. Thus I&amp;rsquo;ve been consistently interested in data collection and statistical analysis about related social issues for the sake of public policy-making.
-I have published several articles as a journalist.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>My current research projects include:
-1. Domain adaptation
-The incredible success of deep learning shows the potential of artificial intelligence to learn from complex large-scale whole-genome data in computational biology. However, it can be extremely expensive or time-consuming to collect and annotate data in biology.
-In the lack of sufficient data, biologists always leverage probabilistic modeling to generate datasets. However, deep learning-based attempts using simulated datasets always struggle with model misspecification, as real data often has additional noise which is not well-characterized in probabilistic modeling.</description>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>/teaching/index_/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description> Spring 2020: Concepts of Statistics (Stat 135), with Professor Adam Lucas (Lab Materials)  Update: You can sign up for my virtual office hours through this sign-up sheet.
- Fall 2018 - Spring 2019: Introduction to Statistics (Stat 2), with Professor Cari Kaufman  </description>
+      <guid>/teaching/index_/</guid>
+      <description></description>
     </item>
     
   </channel>
