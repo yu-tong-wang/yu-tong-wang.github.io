@@ -57,36 +57,28 @@
 &lt;p&gt;&lt;strong&gt;Part 3: Statistical Tests (parametric &amp;amp; nonparametric)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Lab 8: 2-sample t-test, chi-squared test &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab8.pdf&#34;&gt;[Slides]&lt;/a&gt; 
-&lt;a href=&#34;https://drive.google.com/a/berkeley.edu/file/d/1X2SymYtwguNYcPAf_UKxVnqqsLsdBX8E/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Recording]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lab 8: 2-sample t-test, chi-squared test &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab8.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lab 9: TOH, TOI, Mann-Whitney test &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab9.pdf&#34;&gt;[Slides]&lt;/a&gt; 
-&lt;a href=&#34;https://drive.google.com/a/berkeley.edu/file/d/1E4AuFGfzq6dBGq8oRbtDu8Nu0DdVPu74/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Recording]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lab 9: TOH, TOI, Mann-Whitney test &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab9.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lab 10: Wilcoxon signed rank test, ANOVA, Bonferroni correction &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab10.pdf&#34;&gt;[Slides]&lt;/a&gt; 
-&lt;a href=&#34;https://drive.google.com/a/berkeley.edu/file/d/1BEIt1weWqwGbFdfqgHdvpzqVauzpfJIG/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Recording]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lab 10: Wilcoxon signed rank test, ANOVA, Bonferroni correction &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab10.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Part 4: Linear Regression (single &amp;amp; multiple)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Lab 11: Bonferroni t-test, Kruskal Willis test, review of statistical tests, linear regression with its R implimentation &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab11.pdf&#34;&gt;[Slides]&lt;/a&gt;
-&lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab11-Demo.html&#34;&gt;[R demo]&lt;/a&gt; 
-&lt;a href=&#34;https://drive.google.com/a/berkeley.edu/file/d/1avUcoetQHnAjQwv8SPdSU33g0vEUo8-P/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Recording]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab11-Demo.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Lab 12: Statistical properties for least squares estimation &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab12.pdf&#34;&gt;[Slides]&lt;/a&gt;
-&lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab12.html&#34;&gt;[R soln]&lt;/a&gt;
-
-&lt;a href=&#34;https://drive.google.com/a/berkeley.edu/file/d/1U-eJ3swCdKjoplqRT1ls7j74s9QfIvEH/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Recording]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab12.html&#34;&gt;[R soln]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Lab 13: Multiple linear regression, prediction interval, Bayesian statistics &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab13.pdf&#34;&gt;[Slides]&lt;/a&gt;
-&lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab13.html&#34;&gt;[R demo]&lt;/a&gt;
-
-&lt;a href=&#34;https://drive.google.com/file/d/1ZP9rryPhXd8NIk5sMLNVm4yy-nvcMhYR/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Recording]&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab13.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
