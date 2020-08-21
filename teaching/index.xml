@@ -5,7 +5,7 @@
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teachings</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Statistics 135: Concepts of Statistics (Spring 2020)</title>
       <link>/teaching/courses/stat135/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/courses/stat135/</guid>
       <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
@@ -24,8 +24,9 @@
 &lt;li&gt;&lt;em&gt;Lab Sections&lt;/em&gt;: F 12-2pm, F 4-6pm&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: STAT 135 is Berkeley&amp;rsquo;s upper-division course on statistical theory and methodology for undergraduates in statistics and related fields. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and non parametric) and linear regression (single and multiple).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I started to include reviewing materials in slides since the week of March 10 when the in-person classes are cancelled at Berkeley because of COVID-19. If you are interested in reviewing part 1 &amp;amp; 2, (i.e., parametric estimation and hypothesis testing), please feel free to go through Lab 7, in which I did a thorough review of what we have learnt during the first half of the semester. From Lab 7 onwards, you can find the reviewing materials in each lab by its title.&lt;/p&gt;
-&lt;p&gt;The following slides and all other teaching materials are made by me, so I take responsibility for any typo. The problem sets in the slides are from previous iterations of the class.&lt;/p&gt;
+&lt;p&gt;Reviewing materials were included in slides since the week of March 10 when in-person classes were cancelled at Berkeley because of COVID-19. Lab 7 included
+a thorough review of part 1 &amp;amp; 2 (i.e., parametric estimation and hypothesis testing). From Lab 7 onwards, you can find the reviewing materials in each lab by its title.&lt;/p&gt;
+&lt;p&gt;The following slides and all other teaching materials were made by me, so I take responsibility for any typo. The problem sets in the slides were from previous iterations of the class.&lt;/p&gt;
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Lab 1: R setup and practice &lt;a href=&#34;/teaching/stat135_S20/Stat135-Lab1.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
