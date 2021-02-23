@@ -17,66 +17,68 @@
       <link>http://yu-tong-wang.github.io/teaching/courses/stat135/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       <guid>http://yu-tong-wang.github.io/teaching/courses/stat135/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Professor&lt;/em&gt;: Adam Lucas&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Office Hours&lt;/em&gt;: W 12-1pm, Th 1-3pm, F 9:30-10:30am&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Lab Sections&lt;/em&gt;: F 12-2pm, F 4-6pm&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: STAT 135 is Berkeley&amp;rsquo;s upper-division course on statistical theory and methodology for undergraduates in statistics and related fields. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and non parametric) and linear regression (single and multiple).&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Lab 7 included a thorough review of part 1 &amp;amp; 2 (i.e., parametric estimation and hypothesis testing). From Lab 7 onwards, you can find the reviewing materials in each lab by its title. The following teaching materials were made by me, so I take responsibility for any typo. The problem sets in the slides were from previous iterations of the class.&lt;/p&gt;
-
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Lab 1: R setup and practice &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab1.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Part 1: Parametric Estimation&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lab 2: MoM, nonparametric bootstrap, SE calculation &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab2.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 3: MLE, Delta method &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab3.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 4: Quiz 1 recap, Fisher information, CRLB, MSE, ggplot &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab4.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 5: Sufficiency, minimal sufficiency, Rao-Blackwell theorem &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab5.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 2: MoM, nonparametric bootstrap, SE calculation &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab2.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 3: MLE, Delta method &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab3.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 4: Quiz 1 recap, Fisher information, CRLB, MSE, ggplot &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab4.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 5: Sufficiency, minimal sufficiency, Rao-Blackwell theorem &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab5.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Part 2: Hypothesis Testing&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lab 6: Hypothesis testing, Neyman-Pearson lemma, LRT, UMP test, GLRT, p value &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab6.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 7: Midterm Review &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab7.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 6: Hypothesis testing, Neyman-Pearson lemma, LRT, UMP test, GLRT, p value &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab6.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 7: Midterm Review &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab7.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Part 3: Statistical Tests (parametric &amp;amp; nonparametric)&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lab 8: 2-sample t-test, chi-squared test &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab8.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 9: TOH, TOI, Mann-Whitney test &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab9.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 10: Wilcoxon signed rank test, ANOVA, Bonferroni correction &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab10.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 8: 2-sample t-test, chi-squared test &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab8.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 9: TOH, TOI, Mann-Whitney test &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab9.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 10: Wilcoxon signed rank test, ANOVA, Bonferroni correction &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab10.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Part 4: Linear Regression (single &amp;amp; multiple)&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lab 11: Bonferroni t-test, Kruskal Willis test, review of statistical tests, linear regression with its R implimentation &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab11.pdf&#34;&gt;[Slides]&lt;/a&gt;
-&lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab11-Demo.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 12: Statistical properties for least squares estimation &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab12.pdf&#34;&gt;[Slides]&lt;/a&gt;
-&lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab12.html&#34;&gt;[R soln]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lab 13: Multiple linear regression, prediction interval, Bayesian statistics &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab13.pdf&#34;&gt;[Slides]&lt;/a&gt;
-&lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab13.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 11: Bonferroni t-test, Kruskal Willis test, review of statistical tests, linear regression with its R implimentation &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab11.pdf&#34;&gt;[Slides]&lt;/a&gt;
+&lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab11-Demo.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 12: Statistical properties for least squares estimation &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab12.pdf&#34;&gt;[Slides]&lt;/a&gt;
+&lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab12.html&#34;&gt;[R soln]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lab 13: Multiple linear regression, prediction interval, Bayesian statistics &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab13.pdf&#34;&gt;[Slides]&lt;/a&gt;
+&lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab13.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -86,15 +88,12 @@
       <link>http://yu-tong-wang.github.io/teaching/courses/stat2_s19/</link>
       <pubDate>Sat, 01 Jun 2019 22:12:15 -0700</pubDate>
       <guid>http://yu-tong-wang.github.io/teaching/courses/stat2_s19/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
 &lt;li&gt;Office Hours: W, F 9-11am @ 426 Evans&lt;/li&gt;
 &lt;li&gt;Lab Sections: M, W 12-1pm @285 Cory; M, W 1-2pm @332 Evans&lt;/li&gt;
-&lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -104,15 +103,12 @@
       <link>http://yu-tong-wang.github.io/teaching/courses/stat2_f18/</link>
       <pubDate>Sat, 15 Dec 2018 22:12:15 -0700</pubDate>
       <guid>http://yu-tong-wang.github.io/teaching/courses/stat2_f18/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
 &lt;li&gt;Office Hours: F 11am-3pm @428 Evans&lt;/li&gt;
 &lt;li&gt;Lab Sections: M, W 1-2pm, 4-5pm @334 Evans&lt;/li&gt;
-&lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

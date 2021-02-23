@@ -1,66 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://yu-tong-wang.github.io/teaching/courses/stat135/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/courses/stat2_s19/</loc>
     <lastmod>2019-06-01T22:12:15-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/courses/stat2_f18/</loc>
     <lastmod>2018-12-15T22:12:15-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/index_/</loc>
   </url>
-  
 </urlset>
