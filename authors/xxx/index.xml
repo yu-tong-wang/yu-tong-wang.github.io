@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yutong Wang</title>
-    <link>http://yu-tong-wang.github.io/publication/</link>
-      <atom:link href="http://yu-tong-wang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Mar 2021 21:08:09 -0800</lastBuildDate>
+    <title>xxx | Yutong Wang</title>
+    <link>http://yu-tong-wang.github.io/authors/xxx/</link>
+      <atom:link href="http://yu-tong-wang.github.io/authors/xxx/index.xml" rel="self" type="application/rss+xml" />
+    <description>xxx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Feb 2021 21:08:09 -0800</lastBuildDate>
     <image>
       <url>http://yu-tong-wang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>http://yu-tong-wang.github.io/publication/</link>
+      <title>xxx</title>
+      <link>http://yu-tong-wang.github.io/authors/xxx/</link>
     </image>
     
     <item>
       <title>XYZeq: Spatially-resolved single-cell RNA-sequencing reveals expression heterogeneity in the tumor microenvironment</title>
       <link>http://yu-tong-wang.github.io/publication/xyzeq/</link>
-      <pubDate>Mon, 15 Mar 2021 21:08:09 -0800</pubDate>
+      <pubDate>Mon, 15 Feb 2021 21:08:09 -0800</pubDate>
       <guid>http://yu-tong-wang.github.io/publication/xyzeq/</guid>
       <description>&lt;p&gt;&lt;span&gt;*&lt;/span&gt; indicates equal contribution, &lt;span&gt;†&lt;/span&gt; indicates co-corresponding authors.&lt;/p&gt;
 </description>
