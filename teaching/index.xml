@@ -22,9 +22,9 @@
 &lt;li&gt;&lt;em&gt;Professor&lt;/em&gt;: Adam Lucas&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Office Hours&lt;/em&gt;: W 12-1pm, Th 1-3pm, F 9:30-10:30am&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Lab Sections&lt;/em&gt;: F 12-2pm, F 4-6pm&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: STAT 135 is Berkeley&amp;rsquo;s upper-division course on statistical theory and methodology for undergraduates in statistics and related fields. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and non parametric) and linear regression (single and multiple).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: STAT 135 is Berkeley&amp;rsquo;s core upper-division course on statistical theory and methodology for undergraduates in statistics and related fields. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and non parametric) and linear regression (single and multiple).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Lab 7 included a thorough review of part 1 &amp;amp; 2 (i.e., parametric estimation and hypothesis testing). From Lab 7 onwards, you can find the reviewing materials in each lab by its title. The following teaching materials were made by me, so I take responsibility for any typo. The problem sets in the slides were from previous iterations of the class.&lt;/p&gt;
+&lt;p&gt;Please refer to Lab 7 slides for a thorough review of part 1 &amp;amp; 2 (i.e., parametric estimation and hypothesis testing). The following teaching materials were made by me, and the problem sets in the slides were from previous iterations of the class.&lt;/p&gt;
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Lab 1: R setup and practice &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab1.pdf&#34;&gt;[Slides]&lt;/a&gt;&lt;/li&gt;
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>Statistics 2: Introduction to Statistics (Spring 2019)</title>
+      <title>Statistics 2: Intro to Statistics (Fall 2018, Spring 2019)</title>
       <link>http://yu-tong-wang.github.io/teaching/courses/stat2_s19/</link>
       <pubDate>Sat, 01 Jun 2019 22:12:15 -0700</pubDate>
       <guid>http://yu-tong-wang.github.io/teaching/courses/stat2_s19/</guid>
@@ -93,21 +93,6 @@
 &lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
 &lt;li&gt;Office Hours: W, F 9-11am @ 426 Evans&lt;/li&gt;
 &lt;li&gt;Lab Sections: M, W 12-1pm @285 Cory; M, W 1-2pm @332 Evans&lt;/li&gt;
-&lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistics 2: Introduction to Statistics (Fall 2018)</title>
-      <link>http://yu-tong-wang.github.io/teaching/courses/stat2_f18/</link>
-      <pubDate>Sat, 15 Dec 2018 22:12:15 -0700</pubDate>
-      <guid>http://yu-tong-wang.github.io/teaching/courses/stat2_f18/</guid>
-      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Professor: Cari Kaufman&lt;/li&gt;
-&lt;li&gt;Office Hours: F 11am-3pm @428 Evans&lt;/li&gt;
-&lt;li&gt;Lab Sections: M, W 1-2pm, 4-5pm @334 Evans&lt;/li&gt;
 &lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
