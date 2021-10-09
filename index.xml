@@ -5,12 +5,27 @@
     <link>http://yu-tong-wang.github.io/</link>
       <atom:link href="http://yu-tong-wang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yutong Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Mar 2021 21:08:09 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://yu-tong-wang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yutong Wang</title>
       <link>http://yu-tong-wang.github.io/</link>
     </image>
+    
+    <item>
+      <title>CMPBIO 290: Algorithms for single-cell genomics (Fall 2021)</title>
+      <link>http://yu-tong-wang.github.io/teaching/courses/compbio290/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://yu-tong-wang.github.io/teaching/courses/compbio290/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Professor&lt;/em&gt;: Yun S. Song&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Office Hours&lt;/em&gt;: Thursday 4-5pm on Zoom&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lecture&lt;/em&gt;: Monday 3-5pm, 177 Stanley Hall&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: This graduate course will cover a range of current topics in single-cell genomics (broadly defined), with an emphasis on algorithms and statistical methods.  Three main themes of the course will be spatial transcriptomics, integrative analysis of multi-omics data, and immune receptor-antigen interactions.  In addition to reading a number of recent research articles in these areas, students will be provided with an opportunity to gain hands-on experience in analyzing real data.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Statistics 135: Concepts of Statistics (Spring 2020)</title>
