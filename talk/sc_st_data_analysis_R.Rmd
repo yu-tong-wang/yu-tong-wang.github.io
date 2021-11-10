@@ -459,10 +459,10 @@ involved and take more memory.
 # Acknowledgements
 
 The tutorial was inspired by the computational assignments I created together 
-with Dr. Yun S. Song in a graduate course (CMPBIO 290: Algorithms for 
-single-cell genomics) at University of California, Berkeley in Fall 2021. It is 
-mainly based on `Seurat` tutorials from the Satija Lab (<https://satijalab.org/seurat/>).
-I would like to thank Salwan Butrus for helpful feedback and suggestions. 
+with Dr. Yun S. Song in a graduate course (CMPBIO 290: Algorithms for single-cell 
+genomics) at University of California, Berkeley in Fall 2021. The tutorial material 
+was largely based on many open-source resources, especially the [Seurat tutorials](https://satijalab.org/seurat/) from the Satija Lab. I would also like 
+to thank Salwan Butrus for helpful feedback and suggestions.
 
 **References**
 

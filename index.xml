@@ -123,7 +123,7 @@
 &lt;h2 id=&#34;topics&#34;&gt;Topics:&lt;/h2&gt;
 &lt;p&gt;A thorough walk-through is provided to perform computation and data analysis on single-cell RNA sequencing (scRNA-seq) data and spatial transcriptomics data using Seurat and other packages in R. Other topics include the explanation of a general Seurat object, and the conversion of sequencing data formats between R and Python.&lt;/p&gt;
 &lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements:&lt;/h2&gt;
-&lt;p&gt;The tutorial was inspired by the computational assignments I created together with Dr. Yun S. Song in a graduate course (CMPBIO 290: Algorithms for single-cell genomics) at University of California, Berkeley in Fall 2021. The content is largely based on 
+&lt;p&gt;The tutorial was inspired by the computational assignments I created together with Dr. Yun S. Song in a graduate course (CMPBIO 290: Algorithms for single-cell genomics) at University of California, Berkeley in Fall 2021. The tutorial material was largely based on many open-source resources, especially the 
 &lt;a href=&#34;https://satijalab.org/seurat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat tutorials&lt;/a&gt; from the Satija Lab. I would also like to thank Salwan Butrus for helpful feedback and suggestions.&lt;/p&gt;
 </description>
     </item>
