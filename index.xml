@@ -5,7 +5,7 @@
     <link>http://yu-tong-wang.github.io/</link>
       <atom:link href="http://yu-tong-wang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yutong Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 10 Nov 2021 12:00:00 -0800</lastBuildDate>
     <image>
       <url>http://yu-tong-wang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yutong Wang</title>
@@ -110,6 +110,21 @@
 &lt;li&gt;Lab Sections: M, W 12-1pm @285 Cory; M, W 1-2pm @332 Evans&lt;/li&gt;
 &lt;li&gt;Content: STAT 2 is Berkeley&amp;rsquo;s introductory-level course on statistics for undergraduates. Topics include descriptive statistics, probability and inference.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell and spatial transcriptomics data analysis with Seurat in R</title>
+      <link>http://yu-tong-wang.github.io/talk/sc_st_data_analysis_r/</link>
+      <pubDate>Wed, 10 Nov 2021 12:00:00 -0800</pubDate>
+      <guid>http://yu-tong-wang.github.io/talk/sc_st_data_analysis_r/</guid>
+      <description>&lt;h2 id=&#34;materials&#34;&gt;Materials:&lt;/h2&gt;
+&lt;p&gt;The tutorial can be downloaded in both &lt;a href=&#34;http://yu-tong-wang.github.io/talk/sc_st_data_analysis_R.html&#34;&gt;[html]&lt;/a&gt; and &lt;a href=&#34;http://yu-tong-wang.github.io/talk/sc_st_data_analysis_R.Rmd&#34;&gt;[Rmd]&lt;/a&gt; formats.&lt;/p&gt;
+&lt;h2 id=&#34;topics&#34;&gt;Topics:&lt;/h2&gt;
+&lt;p&gt;A thorough walk-through is provided to perform computation and data analysis on single-cell RNA sequencing (scRNA-seq) data and spatial transcriptomics data using Seurat and other packages in R. Other topics include the explanation of a general Seurat object, and the conversion of sequencing data formats between R and Python.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements:&lt;/h2&gt;
+&lt;p&gt;The tutorial was inspired by the computational assignments I created together with Dr. Yun S. Song in a graduate course (CMPBIO 290: Algorithms for single-cell genomics) at University of California, Berkeley in Fall 2021. The content is largely based on 
+&lt;a href=&#34;https://satijalab.org/seurat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat tutorials&lt;/a&gt; from the Satija Lab. I would also like to thank Salwan Butrus for helpful feedback and suggestions.&lt;/p&gt;
 </description>
     </item>
     
