@@ -283,7 +283,7 @@ transcriptomics data to explore cellular heterogeneity of cell types and states.
 ```{r, eval = TRUE}
 # identity class of each sample
 table(brain_obj@active.ident)
-# find all markers of cluster 2
+# find all markers of cluster 10
 cluster10_markers <- FindMarkers(brain_obj, ident.1 = 10, min.pct = 0.25)
 head(cluster10_markers, n = 5)
 VlnPlot(brain_obj, features = c("Esr1", "Trh", "Ccn3"))
@@ -336,7 +336,7 @@ correlation coefficient is
 r= \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n}(x_i - \bar{x})^2}\sqrt{\sum_{i=1}^{n}(y_i - \bar{y})^2}}
 \end{align*}
 
-```{r moransi, echo=FALSE, fig.align='center', fig.cap="Fig: Interpretation of Moran's I statistic, [image source](https://www.depts.ttu.edu/geospatial/center/gist4302/documents/lectures/Fall%202013/lecture6.pdf).", out.width = '50%'}
+```{r moransi, echo=FALSE, fig.align='center', fig.cap="Fig: Interpretation of Moran's I statistic, [image source](https://www.depts.ttu.edu/geospatial/center/gist4302/documents/lectures/Fall%202013/lecture6.pdf).", out.width = '100%'}
 knitr::include_graphics("./fig/moransi_fig.png")
 ```
 
@@ -346,7 +346,7 @@ distance-based (inverse distance). For instance, the following figure illustrate
 potential cases for higher-order contiguity, when a first-order contiguity is 
 determined based on the existence of a shared boundary or border. 
 
-```{r contiguity, echo=FALSE, fig.align='center', fig.cap="Fig: Examples of contiguity-based spatial neighbors, [image source](https://www.depts.ttu.edu/geospatial/center/gist4302/documents/lectures/Fall%202013/lecture6.pdf).", out.width = '50%'}
+```{r contiguity, echo=FALSE, fig.align='center', fig.cap="Fig: Examples of contiguity-based spatial neighbors, [image source](https://www.depts.ttu.edu/geospatial/center/gist4302/documents/lectures/Fall%202013/lecture6.pdf).", out.width = '80%'}
 knitr::include_graphics("./fig/contiguity_fig.png")
 ```
 
@@ -392,7 +392,7 @@ v(r) = \mathbb{E}_{\forall i, j, \text{ s.t. dist}(i, j) = r}\left[(x_i - x_j)^2
 \end{align*}
 , where $x_i, x_j$ stand for the gene expression of gene $g$ in sample $i, j$ respectively.
 
-```{r variogram, echo=FALSE, fig.align='center', fig.cap="Fig: Common theoretical variogram models, [image source](https://www.aspexit.com/variogram-and-spatial-autocorrelation/).", out.width = '50%'}
+```{r variogram, echo=FALSE, fig.align='center', fig.cap="Fig: Common theoretical variogram models, [image source](https://www.aspexit.com/variogram-and-spatial-autocorrelation/).", out.width = '80%'}
 knitr::include_graphics("./fig/variogram_fig.png")
 ```
 
@@ -460,9 +460,8 @@ involved and take more memory.
 
 The tutorial was inspired by the computational assignments I created together 
 with Dr. Yun S. Song in a graduate course (CMPBIO 290: Algorithms for single-cell 
-genomics) at University of California, Berkeley in Fall 2021. The tutorial material 
-was largely based on many open-source resources, especially the [Seurat tutorials](https://satijalab.org/seurat/) from the Satija Lab. I would also like 
-to thank Salwan Butrus for helpful feedback and suggestions.
+genomics) at University of California, Berkeley in Fall 2021, and it was largely 
+based on many open-source materials, especially the [Seurat tutorials](https://satijalab.org/seurat/) from the Satija Lab. I would also like to thank Salwan Butrus for helpful feedback and suggestions.
 
 **References**
 
