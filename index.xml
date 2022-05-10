@@ -110,11 +110,28 @@
       <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Professor: Corinne Riddell&lt;/li&gt;
-&lt;li&gt;Content: PH292 is a required seminar course for master students to get formal trainings as a biostatisticians. Topics include thesis writing, peer review of academic writing, statistical software development, principles of open and reproducible science, collaboration etiquette, and Diversity, Equity, and Inclusion (DEI).&lt;/li&gt;
+&lt;li&gt;Content: PH292 is a required seminar course for master students in Biostatistics. Topics include thesis writing, peer review of academic writing, statistical software development, principles of open and reproducible science, collaboration etiquette, and Diversity, Equity, and Inclusion (DEI).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I was invited to present as a guest lecturer in the following two topics:&lt;/p&gt;
-&lt;h1 id=&#34;incorporate-material-to-tackle-how-racism-and-other--isms-are-part-of-the&#34;&gt;incorporate material to tackle how racism and other -isms are part of the&lt;/h1&gt;
-&lt;h1 id=&#34;history-of-statistics-and-play-out-in-modern-statistics&#34;&gt;history of statistics and play out in modern statistics.&lt;/h1&gt;
+&lt;p&gt;You can find my lecture slides about these DEI topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1j9GlVqBLH6GMZJ4WArE9Ddwdn_XkA94c/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eugenics and statistics&lt;/a&gt;, i.e., how racism and other -isms are part of the history of statistics and play out in modern statistics.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/14CXQZ9ZyHhOXEjVY5VgZf7Ejq8UCD2TE/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethics and algorithmic fairness in health care&lt;/a&gt;, including (1) ethical concerns in the development of genetics, (2) representation disparity in genetic studies and clinical trials, and (3) algorithmic fairness in machine learning with case studies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python Bootcamp (Spring, Summer 2022)</title>
+      <link>http://yu-tong-wang.github.io/teaching/courses/python_bootcamp/</link>
+      <pubDate>Sun, 01 May 2022 00:02:03 -0700</pubDate>
+      <guid>http://yu-tong-wang.github.io/teaching/courses/python_bootcamp/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Content: The Center for Computational Biology offers a 5-day “
+&lt;a href=&#34;https://ccb.berkeley.edu/outreach/workshops-bootcamps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Programming for Bioinformatics&lt;/a&gt;” bootcamp. The goals of this course are to introduce students to Python, a simple and powerful programming language that is used for many applications, and to expose them to the practical bioinformatic utility of Python and programming in general. Specific topics include control flow, logic, data structures, data visualization and manipulations.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
