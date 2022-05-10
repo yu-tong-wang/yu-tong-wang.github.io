@@ -5,7 +5,7 @@
     <link>http://yu-tong-wang.github.io/teaching/</link>
       <atom:link href="http://yu-tong-wang.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 01 May 2022 23:25:36 -0700</lastBuildDate>
     <image>
       <url>http://yu-tong-wang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teachings</title>
@@ -24,6 +24,10 @@
 &lt;li&gt;&lt;em&gt;Office Hours&lt;/em&gt;: Thursday 4-5pm on Zoom&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: This graduate course will cover a range of current topics in single-cell genomics (broadly defined), with an emphasis on algorithms and statistical methods.  Three main themes of the course will be spatial transcriptomics, integrative analysis of multi-omics data, and immune receptor-antigen interactions.  In addition to reading a number of recent research articles in these areas, students will be provided with an opportunity to gain hands-on experience in analyzing real data.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Check out my 
+&lt;a href=&#34;https://drive.google.com/file/d/1YvIJqul4G7EuqRy7WFzyduzcLKPDJgy6/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lecture slides&lt;/a&gt; about spatial transcriptomics, and two problem sets I created about 
+&lt;a href=&#34;https://drive.google.com/file/d/1OVxzYVMkljgyrJob-rFib40iU3K7npjK/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial transcriptomics data analysis&lt;/a&gt; as well as 
+&lt;a href=&#34;https://drive.google.com/file/d/1yxPpjvu42qPkq8uuM7PES1EWVZFOQjMn/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multi-omics integration analysis&lt;/a&gt; respectively. Have fun! :)&lt;/p&gt;
 </description>
     </item>
     
@@ -95,6 +99,22 @@
 &lt;a href=&#34;http://yu-tong-wang.github.io/teaching/stat135_S20/Stat135-Lab13.html&#34;&gt;[R demo]&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Health 292: Biostatistics Seminar for Graduate Students (Spring 2022)</title>
+      <link>http://yu-tong-wang.github.io/teaching/courses/ph292/</link>
+      <pubDate>Sun, 01 May 2022 23:25:36 -0700</pubDate>
+      <guid>http://yu-tong-wang.github.io/teaching/courses/ph292/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor: Corinne Riddell&lt;/li&gt;
+&lt;li&gt;Content: PH292 is a required seminar course for master students to get formal trainings as a biostatisticians. Topics include thesis writing, peer review of academic writing, statistical software development, principles of open and reproducible science, collaboration etiquette, and Diversity, Equity, and Inclusion (DEI).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I was invited to present as a guest lecturer in the following two topics:&lt;/p&gt;
+&lt;h1 id=&#34;incorporate-material-to-tackle-how-racism-and-other--isms-are-part-of-the&#34;&gt;incorporate material to tackle how racism and other -isms are part of the&lt;/h1&gt;
+&lt;h1 id=&#34;history-of-statistics-and-play-out-in-modern-statistics&#34;&gt;history of statistics and play out in modern statistics.&lt;/h1&gt;
 </description>
     </item>
     
