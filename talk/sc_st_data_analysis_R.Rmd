@@ -1,7 +1,7 @@
 ---
 title: "Single-cell and spatial transcriptomics data analysis with Seurat in R"
 author: "Yutong Wang, Graduate Group in Biostatistics, University of California, Berkeley"
-date: "11/10/2021"
+# date: "11/10/2021"
 output: 
   html_document:
     toc: true # table of content true
@@ -34,7 +34,7 @@ library(ggplot2)
 library(patchwork)
 # install.packages('BiocManager')
 # BiocManager::install('limma')
-library(limma) # optional
+# library(limma) # optional
 ```
 
 # Seurat object
@@ -63,7 +63,7 @@ The data files we will be using today include:
 
 ```{r load-data, warning = FALSE}
 # specify your working directory
-root_dir <- "~/Downloads/" 
+root_dir <- "~/Downloads" 
 setwd(root_dir)
 # url prefix to download files
 url_prefix <- "https://drive.google.com/uc?export=download&id="
@@ -71,16 +71,28 @@ url_prefix <- "https://drive.google.com/uc?export=download&id="
 spatial_folder_id <- "13B6ulZwz9XmWBD1RsnTHTMn3ySgIpFCY"
 h5_mat_id <- "1nnch2ctksJ4rXYG5FzlPh3bIgnylTicV"
 # file names
-spatial_folder_name <- "./V1_Mouse_Brain_Sagittal_Posterior_Section_2_spatial.tar.gz"
-h5_mat_name <- "./V1_Mouse_Brain_Sagittal_Posterior_Section_2_filtered_feature_bc_matrix.h5"
-# download files from the resource URL to a destination path where the file is saved 
-download.file(url = paste0(url_prefix, spatial_folder_id), 
-              destfile = file.path(spatial_folder_name))
-download.file(url = paste0(url_prefix, h5_mat_id), 
-              destfile = file.path(h5_mat_name))
+spatial_folder_name <- "/V1_Mouse_Brain_Sagittal_Posterior_Section_2_spatial.tar.gz"
+h5_mat_name <- "/V1_Mouse_Brain_Sagittal_Posterior_Section_2_filtered_feature_bc_matrix.h5"
+
+# Construct the wget command
+wget_command <- paste0("wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=", h5_mat_id, "' -O ", root_dir, h5_mat_name)
+# Execute the wget command
+system(wget_command)
+
+wget_command <- paste0("wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=", spatial_folder_id, "' -O ", root_dir, spatial_folder_name)
+# Execute the wget command
+system(wget_command)
+
+
+# # download files from the resource URL to a destination path where the file is saved 
+# download.file(url = paste0(url_prefix, spatial_folder_id), 
+#               destfile = file.path(spatial_folder_name))
+# download.file(url = paste0(url_prefix, h5_mat_id), 
+#               destfile = file.path(h5_mat_name))
 # extract (or list) contents from the tar archives
-untar(spatial_folder_name)
-untar(spatial_folder_name, list = TRUE)  # list contents
+untar(tarfile = paste0(root_dir, spatial_folder_name), 
+      exdir = path.expand(root_dir))
+untar(paste0(root_dir, spatial_folder_name), list = TRUE)  # list contents
 
 # Load a 10x Genomics Visium Spatial Experiment into a Seurat object
 brain_data <- Seurat::Load10X_Spatial(
@@ -109,7 +121,7 @@ Extract the dimension of the active assay using `dim`, `nrow`, or `ncol`.
 ```{r object-info}
 dim(x = brain_data) # the number of features (genes) by samples (spots)
 ```
-````{r, results='hide'}
+```{r, results='hide'}
 nrow(x = brain_data) # the number of features
 ncol(x = brain_data) # the number of samples
 ```
