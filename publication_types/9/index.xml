@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;u&gt;Yutong Wang*&lt;/u&gt; | Yutong Wang</title>
-    <link>http://yu-tong-wang.github.io/authors/uyutong-wang/u/</link>
-      <atom:link href="http://yu-tong-wang.github.io/authors/uyutong-wang/u/index.xml" rel="self" type="application/rss+xml" />
-    <description>&lt;u&gt;Yutong Wang*&lt;/u&gt;</description>
+    <title>9 | Yutong Wang</title>
+    <link>http://yu-tong-wang.github.io/publication_types/9/</link>
+      <atom:link href="http://yu-tong-wang.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright>
     <image>
       <url>http://yu-tong-wang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>&lt;u&gt;Yutong Wang*&lt;/u&gt;</title>
-      <link>http://yu-tong-wang.github.io/authors/uyutong-wang/u/</link>
+      <title>9</title>
+      <link>http://yu-tong-wang.github.io/publication_types/9/</link>
     </image>
-    
-    <item>
-      <title>XYZeq: Spatially-resolved single-cell RNA-sequencing reveals expression heterogeneity in the tumor microenvironment</title>
-      <link>http://yu-tong-wang.github.io/publication/xyzeq/</link>
-      <pubDate>Mon, 15 Mar 2021 21:08:09 -0800</pubDate>
-      <guid>http://yu-tong-wang.github.io/publication/xyzeq/</guid>
-      <description>&lt;p&gt;&lt;span&gt;*&lt;/span&gt; indicates equal contribution, &lt;span&gt;†&lt;/span&gt; indicates co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Decoding cell-cell communication through deep learning reveals novel ligand-receptor pairs from spatial transcriptomics</title>

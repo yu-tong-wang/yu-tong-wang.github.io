@@ -5,12 +5,27 @@
     <link>http://yu-tong-wang.github.io/teaching/</link>
       <atom:link href="http://yu-tong-wang.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sun, 01 May 2022 23:25:36 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://yu-tong-wang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teachings</title>
       <link>http://yu-tong-wang.github.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>CMPBIO 293: Doctoral seminar in computational biology (Fall 2023)</title>
+      <link>http://yu-tong-wang.github.io/teaching/courses/compbio293/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://yu-tong-wang.github.io/teaching/courses/compbio293/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Professor&lt;/em&gt;: Yun S. Song&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lecture&lt;/em&gt;: Thursday 1-3pm, 39 Evans&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Office Hours&lt;/em&gt;: Tuesday 5:10-6pm, 378 Stanley Hall&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Content&lt;/em&gt;: This doctoral level course covers a broad spectrum of advanced topics including dimensionality reduction, clustering, RNA-seq analysis, multi-omic and spatial transcriptomics, CRISPR technologies, deep mutation scanning, and predictive models for variant effects and polygenic risk scores. The interactive seminar builds skills, knowledge and community in computational biology for first year PhD and second year Designated Emphasis students.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CMPBIO 290: Algorithms for single-cell genomics (Fall 2021)</title>

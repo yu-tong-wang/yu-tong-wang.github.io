@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://yu-tong-wang.github.io/teaching/courses/compbio293/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/courses/compbio290/</loc>
     <lastmod>2021-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,10 +21,10 @@
     <lastmod>2019-06-01T22:12:15-07:00</lastmod>
   </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/</loc>
-    <lastmod>2022-05-01T23:25:36-07:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yu-tong-wang.github.io/</loc>
-    <lastmod>2022-05-01T23:25:36-07:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yu-tong-wang.github.io/talk/</loc>
     <lastmod>2021-11-10T12:00:00-08:00</lastmod>
@@ -94,20 +97,30 @@
   </url><url>
     <loc>http://yu-tong-wang.github.io/authors/admin/</loc>
   </url><url>
+    <loc>http://yu-tong-wang.github.io/publication_types/9/</loc>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/authors/uyutong-wang/u/</loc>
   </url><url>
     <loc>http://yu-tong-wang.github.io/authors/alexander-marsonspan#8224/span/</loc>
+  </url><url>
+    <loc>http://yu-tong-wang.github.io/authors/antoine-koehl/</loc>
   </url><url>
     <loc>http://yu-tong-wang.github.io/categories/</loc>
   </url><url>
     <loc>http://yu-tong-wang.github.io/authors/chun-jimmie-yespan#8224/span/</loc>
   </url><url>
+    <loc>http://yu-tong-wang.github.io/publication/ggpair/</loc>
+  </url><url>
     <loc>http://yu-tong-wang.github.io/authors/eric-d.-chowspan#8224/span/</loc>
+  </url><url>
+    <loc>http://yu-tong-wang.github.io/authors/fanding-zhou/</loc>
   </url><url>
     <loc>http://yu-tong-wang.github.io/post/</loc>
   </url><url>
     <loc>http://yu-tong-wang.github.io/teaching/index_/</loc>
   </url><url>
     <loc>http://yu-tong-wang.github.io/authors/youjin-leespan#8224/span/</loc>
+  </url><url>
+    <loc>http://yu-tong-wang.github.io/authors/yun-s.-songspan#8224/span/</loc>
   </url>
 </urlset>
